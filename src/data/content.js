@@ -63,12 +63,6 @@ export const projects = [
     year: '2025',
     href: 'https://github.com/Harshal19t/PDF_Summarizer',
   },
-  {
-    name: 'Solarlize',
-    role: 'Full-Stack Web Platform',
-    year: '2025',
-    href: '#', // placeholder -- client project, add a link if one exists (case study, live site, etc.)
-  },
 ];
 
 export const collage = [
