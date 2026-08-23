@@ -65,7 +65,7 @@ export const projects = [
   },
   {
     name: 'Solarlize',
-    role: 'Solar Funding Platform',
+    role: 'Frontend Development /UI Design',
     year: '2025',
     href: 'https://github.com/Harshal19t/Solarlize-Solar_Funding',
   },
