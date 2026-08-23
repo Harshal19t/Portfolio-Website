@@ -63,6 +63,12 @@ export const projects = [
     year: '2025',
     href: 'https://github.com/Harshal19t/PDF_Summarizer',
   },
+  {
+    name: 'Solarlize',
+    role: 'Solar Funding Platform',
+    year: '2025',
+    href: 'https://github.com/Harshal19t/Solarlize-Solar_Funding',
+  },
 ];
 
 export const collage = [
