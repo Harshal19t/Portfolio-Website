@@ -11,7 +11,7 @@ export const profile = {
   role: 'AI Engineer & Full-Stack Developer',
   intro:
     "MSc Advanced Computer Science student at the University of Sheffield, building RAG pipelines, fine-tuned LLMs, and full-stack products.",
-  bio: "I'm an AI Engineer and full-stack developer currently completing an MSc in Advanced Computer Science at the University of Sheffield. I work across retrieval-augmented generation, LLM fine-tuning, and product engineering -- most recently building production RAG systems, and interning as an AI Engineer at Genta, where I integrated LLMs into conversational systems for public libraries.",
+  bio: "I'm an AI Engineer and full-stack developer currently completing an MSc in Advanced Computer Science at the University of Sheffield. I work across retrieval-augmented generation, LLM fine-tuning, and product engineering most recently building production RAG systems, and interning as an AI Engineer at Genta, where I integrated LLMs into conversational systems for public libraries.",
   location: 'Sheffield, United Kingdom',
   email: 'harshal1901@gmail.com', // placeholder -- confirm which email you want listed publicly
   social: [
@@ -34,21 +34,27 @@ export const nav = [
 
 export const projects = [
   {
+    name: 'Chaser',
+    role: 'Automate Invoice and Email handling',
+    year: '2026',
+    href: 'https://github.com/Harshal19t/invoice_chaser',
+  },
+  {
     name: 'FinDocIQ',
     role: 'Financial RAG Assistant',
-    year: '2025',
+    year: '2026',
     href: 'https://github.com/Harshal19t/FinDocIQ-',
   },
   {
     name: 'AI Triage Copilot',
     role: 'AI Automation / RAG',
-    year: '2025',
+    year: '2026',
     href: 'https://github.com/Harshal19t/AI-Triage-Copilot',
   },
   {
     name: 'SBOM Agent',
     role: 'Security Tooling / AI Automation',
-    year: '2025',
+    year: '2026',
     href: 'https://github.com/Harshal19t/sbom-agent',
   },
   {

@@ -10,7 +10,7 @@ export default function App() {
     <div className="bg-ink text-paper font-sans selection:bg-paper selection:text-ink">
       <Hero />
       <About />
-      <Marquee />
+      {/*<Marquee />*/}
       <Work />
       <Writing />
       <Contact />

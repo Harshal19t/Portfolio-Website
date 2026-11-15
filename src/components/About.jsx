@@ -26,8 +26,6 @@ export default function About() {
             ))}
           </div>
           <p className="mt-4 text-[10px] uppercase tracking-widest text-paper/30 max-w-xs">
-            Selected screens from recent work — swap in real project imagery
-            here.
           </p>
         </div>
 

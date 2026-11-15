@@ -11,11 +11,6 @@ export default function Writing() {
               Notes &amp; articles from Medium
             </h3>
           </div>
-          <p className="text-xs leading-relaxed text-paper/50 max-w-sm md:text-right md:ml-auto">
-            A space to share what I'm building, what I'm learning, and the
-            ideas behind the work. Replace these with links to your published
-            Medium articles.
-          </p>
         </div>
 
         <div className="grid sm:grid-cols-2 gap-4">

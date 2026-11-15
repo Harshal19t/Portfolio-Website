@@ -47,7 +47,7 @@ export default function Hero() {
 
         <div className="mt-14 flex flex-col md:flex-row md:items-end md:justify-between gap-6 border-t border-line pt-6">
           <p className="max-w-sm text-xs leading-relaxed text-paper/50 uppercase tracking-wide">
-            {profile.role} — working across strategy, code, and interface to
+            {profile.role} working across strategy, code, and interface to
             help ideas ship with clarity and purpose.
           </p>
           <a

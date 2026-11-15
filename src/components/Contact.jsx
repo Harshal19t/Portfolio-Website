@@ -13,7 +13,7 @@ export default function Contact() {
           <div className="flex flex-col md:items-end gap-4">
             <p className="text-xs leading-relaxed text-paper/50 max-w-xs md:text-right">
               Whether it's a product to build, a project to collaborate on,
-              or just a conversation — I'm here to help turn ideas into
+              or just a conversation, I'm here to help turn ideas into
               reality.
             </p>
             <a
